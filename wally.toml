@@ -1,0 +1,20 @@
+[package]
+name = "leoyulee/versioner"
+description = "A module that allows usage of Semantic Verisoning 2.0 in roblox projects"
+license = "MIT"
+authors = ["leoyulee"]
+version = "0.0.2"
+
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
+
+[dependencies]
+Version = "leoyulee/version@0.1.2"
+
+[dev-dependencies]
+# Dev dependencies can be server or shared but are only needed during development.
+TestEZ = "roblox/testez@0.4.1"

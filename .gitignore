@@ -1,0 +1,23 @@
+#vscode settings
+/.vscode
+
+# Project place file
+/AssetService.rbxlx
+/AssetService.rbxl
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+#Wally files
+/DevPackages
+/Packages
+/ServerPackages
+/wally.lock
+
+#selene
+/roblox.toml
+
+#Node Modules and Files
+/node_modules
+/package-lock.json
+/package.json

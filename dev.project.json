@@ -1,0 +1,38 @@
+{
+  "name": "versioner",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": true,
+      "Packages": {
+        "$path": {
+          "optional": "Packages"
+        },
+        "MockIndex": {
+          "$className": "Folder",
+          "VersionerPackageFolder": {
+            "$className": "Folder",
+            "Versioner":{
+              "$path": "src"
+            }
+          }
+        }
+      },
+      "DevPackages": {
+        "$path": {
+          "optional": "DevPackages"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+      "Tests": {
+        "$path": {
+          "optional": "Tests"
+        }
+      }
+    }
+  }
+}

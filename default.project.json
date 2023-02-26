@@ -1,0 +1,6 @@
+{
+  "name": "versioner",
+  "tree": {
+    "$path": "src"
+  }
+}
