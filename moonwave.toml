@@ -1,0 +1,5 @@
+gitRepoUrl = "https://github.com/leoyulee/Versioner"
+
+[home]
+enabled = false
+includeReadme = true
