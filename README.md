@@ -3,21 +3,21 @@ A utility module that has helper functions for [Version](https://github.com/leoy
 
 This module is bound to change over time as different scenarios are brought up.
 
-# Installation/Setup
+## Installation/Setup
 For now, only Wally is supported. If there's demand, other methods will be added!
-## With Wally
+### Usage With Wally
 Put the following under `[dependacies]` in your `wally.toml` file:
 ```
 Versioner = "leoyulee/versioner@0.0.3"
 ```
 Then run `wally install`.
 
-# 0.0.3 Notes
+## Latest Update/Patch Notes
 - Fixed an incorrect reference preventing this package from functioning in wally workspaces.
 
-# Development & Contributing
+## Development & Contributing
 
-## Workspace Dependacies
+### Workspace Dependacies
 [Aftman](https://github.com/LPGhatguy/aftman#installation) tools:
 - [Wally](https://github.com/UpliftGames/wally/#installation)
 - [Rojo 7.2.0](https://github.com/rojo-rbx/rojo)
@@ -25,11 +25,11 @@ Then run `wally install`.
 Other tools:
 - [Moonwave 0.3.7](https://github.com/evaera/moonwave)
 
-## Development Workspace Setup
+### Workspace Setup
 1. Install wally dependacies.
 2. Build rojo project with `dev.project.json`.
 
-## Rojo Place Building
+### Rojo Place Building
 To build the place from scratch, use:
 
 ```bash
