@@ -1,5 +1,5 @@
 # Versioner
-A utility module that has helper functions. At the moment, it only has one function that is used to compare Versions, regardless of being a string or Version object.
+A utility module that has helper functions for [Version](https://github.com/leoyulee/Version). At the moment, it only has one function that is used to compare Versions, regardless of being a string or Version object.
 
 This module is bound to change over time as different scenarios are brought up.
 
