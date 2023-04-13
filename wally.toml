@@ -3,7 +3,7 @@ name = "leoyulee/versioner"
 description = "A module that allows usage of Semantic Verisoning 2.0 in roblox projects"
 license = "MIT"
 authors = ["leoyulee"]
-version = "0.0.2"
+version = "0.0.3"
 
 
 registry = "https://github.com/UpliftGames/wally-index"

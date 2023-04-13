@@ -1,5 +1,5 @@
 --!strict
-local VersionClass = require(script.Parent.Parent.Parent.Version)
+local VersionClass = require(script.Parent.Version)
 type Version = VersionClass.Version
 --[=[
     @class Versioner

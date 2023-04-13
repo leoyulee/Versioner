@@ -9,14 +9,8 @@
         "$path": {
           "optional": "Packages"
         },
-        "MockIndex": {
-          "$className": "Folder",
-          "VersionerPackageFolder": {
-            "$className": "Folder",
-            "Versioner":{
-              "$path": "src"
-            }
-          }
+        "Versioner":{
+          "$path": "default.project.json"
         }
       },
       "DevPackages": {
