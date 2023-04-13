@@ -2,8 +2,8 @@
 /.vscode
 
 # Project place file
-/AssetService.rbxlx
-/AssetService.rbxl
+/*.rbxlx
+/*.rbxl
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
@@ -21,3 +21,6 @@
 /node_modules
 /package-lock.json
 /package.json
+
+#Moonwave build
+/build

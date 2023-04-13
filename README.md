@@ -33,10 +33,10 @@ Other tools:
 To build the place from scratch, use:
 
 ```bash
-rojo build -o "Version.rbxlx"
+rojo build -o "Versioner.rbxlx"
 ```
 
-Next, open `Version.rbxlx` in Roblox Studio and start the Rojo server:
+Next, open `Versioner.rbxlx` in Roblox Studio and start the Rojo server:
 
 ```bash
 rojo serve
